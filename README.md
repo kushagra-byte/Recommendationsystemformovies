@@ -10,23 +10,25 @@ Recommendation Script / Streamlit App: Generates personalized movie recommendati
 
 Here are all the required installations:
 
-pip install tensorflow pandas numpy scikit-learn streamlit
+    pip install tensorflow pandas numpy scikit-learn streamlit]
 
 Optional (if you want graphs later):
 
-Bashpip install matplotlib
+   pip install matplotlib
 
 Full recommended command:
 
-Bashpip install tensorflow pandas numpy scikit-learn streamlit matplotlib
+    pip install tensorflow pandas numpy scikit-learn streamlit matplotlib
 
 # Model Training
 
-run recommendation.py file to train the model 
+run file to train the model 
+
+    recommendation.py 
 
 # Usage
 
 Run the command in command line :
 
-streamlit run app.py
+    streamlit run app.py   
 
