@@ -24,8 +24,9 @@ Bashpip install tensorflow pandas numpy scikit-learn streamlit matplotlib
 
 run recommendation.py file to train the model 
 
-#Usage
+# Usage
 
-Run the command in command line 
+Run the command in command line :
+
 streamlit run app.py
 
